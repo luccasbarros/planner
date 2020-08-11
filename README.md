@@ -8,9 +8,9 @@
 
 That is a planner to help you add your daily task, remove and control it. You can risk ever task that you have made by clicking on it! :ok_hand:
 
-This is a study to pratice some functionalities in JS DOM. 
+This is a study to pratice some functionalities in <strong>JS DOM</strong>. 
 
-There is responsive layout (Iphone 6/7/8)
+There is responsive layout <strong>(Iphone 6/7/8)</strong>
 
 The Planner was realized on Labenu Bootcamp! :computer:
 
